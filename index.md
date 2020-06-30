@@ -17,12 +17,14 @@ I am available to discuss how I can add value to your Market Research, Web Resea
 
 ### Projects 
 
-[Lead Generation](/leadgen.md)
+[Lead Generation](/leadgen)
+
 <img src="images/thumbnail1.jpg?raw=true"/>
 
 
 ---
-[Web scraping](/scrape.md)
+[Web scraping](/scrape)
+
 <img src="images/thumbnail2.jpg?raw=true"/>
 
 ---
@@ -33,6 +35,6 @@ I am available to discuss how I can add value to your Market Research, Web Resea
 
 ### HIRE ME
 
-[Upwork](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/)
-[LinkedIn](https://www.linkedin.com/in/kowshika-n/)
-[GitHub](https://github.com/kowshika-n/)
+ - [Upwork](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/)
+ - [LinkedIn](https://www.linkedin.com/in/kowshika-n/)
+ - [GitHub](https://github.com/kowshika-n/)
