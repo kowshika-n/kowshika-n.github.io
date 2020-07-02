@@ -19,7 +19,18 @@ I have extensive experience in the following areas:
 
 I have also worked on projects related to hotel management database having the knowledge of the hospitality field and familiar with the online sites like Tripadvisor, Booking.com, Agoda, Expedia and more.
 
+My other skills along with Web Research are Data Mining, Data Extraction, MS Excel, MS Word, Data Scraping, Data Cleanup, Data Consolidation, Data Organizing, Data Validation, and more
+
 
 ### Testimonials
 
 <img src="images/testimonial1.png?raw=true"/>
+
+
+
+### HIRE ME
+
+ - [Upwork](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/?s=1110580761541988352)
+ - [LinkedIn](https://www.linkedin.com/in/kowshika-n/)
+ - [GitHub](https://github.com/kowshika-n/)
+
