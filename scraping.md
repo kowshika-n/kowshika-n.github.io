@@ -26,11 +26,11 @@ I have extensive experience in automating following tasks:
 
 ### Sample Work
 
-  - [Movies List Extraction](https://drive.google.com/file/d/1L1zsJdZZVO2yKSyXi-abb6ceG1d5duK9/view?usp=sharing)
+  - [Movies List Extraction](https://drive.google.com/file/d/1L1zsJdZZVO2yKSyXi-abb6ceG1d5duK9/view?usp=sharing){target="_blank"}
 
-  - [News Portal Extraction](https://drive.google.com/file/d/15h22Rpw684i4joxQgSS_eiI8f4qcqnuw/view?usp=sharing)
+  - [News Portal Extraction](https://drive.google.com/file/d/15h22Rpw684i4joxQgSS_eiI8f4qcqnuw/view?usp=sharing){target="_blank"}
 
-  - [Instagram User Data](https://drive.google.com/file/d/14OZ4n-5eBoy4jZ7qcPnRg_5uVL6-H38k/view?usp=sharing)
+  - [Instagram User Data](https://drive.google.com/file/d/14OZ4n-5eBoy4jZ7qcPnRg_5uVL6-H38k/view?usp=sharing){target="_blank"}
   
   
 ### Testimonials
@@ -41,10 +41,9 @@ I have extensive experience in automating following tasks:
 
 ### HIRE ME
 
- - [Upwork](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/?s=1110580748627726336)
- - [LinkedIn](https://www.linkedin.com/in/kowshika-n/)
- - [GitHub](https://github.com/kowshika-n/)
-
+ - [Upwork.com](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/?s=1110580748627726336)
+ - [Fiverr.com](https://www.fiverr.com/share/1ExdBr)
+ 
 ---
 
 ---

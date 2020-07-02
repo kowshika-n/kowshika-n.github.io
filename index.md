@@ -41,9 +41,8 @@ I am open to a long-term as well as a short-term project. I have been working on
 
 ### HIRE ME
 
- - [Upwork](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/)
- - [LinkedIn](https://www.linkedin.com/in/kowshika-n/)
- - [GitHub](https://github.com/kowshika-n/)
+ - [Upwork.com](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/)
+ - [Fiverr.com](https://www.fiverr.com/kowshikanagaraj/)
 
 ---
 
