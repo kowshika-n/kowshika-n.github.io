@@ -18,15 +18,21 @@ I am open to a long-term as well as a short-term project. I have been working on
 ### Projects 
 
 [Lead Generation](/leadgen)
+
 <a href="/leadgen">
 <img src="images/thumbnail1.jpg?raw=true"/>
 </a>
 
+
 ---
+
 [Web scraping](/scraping)
+
 <a href="/scraping">
 <img src="images/thumbnail2.jpg?raw=true"/>
 </a>
+
+
 ---
 
 ---
@@ -38,3 +44,7 @@ I am open to a long-term as well as a short-term project. I have been working on
  - [Upwork](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/)
  - [LinkedIn](https://www.linkedin.com/in/kowshika-n/)
  - [GitHub](https://github.com/kowshika-n/)
+
+---
+
+---
