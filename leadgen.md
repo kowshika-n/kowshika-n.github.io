@@ -24,13 +24,13 @@ My other skills along with Web Research are Data Mining, Data Extraction, MS Exc
 
 ### Sample Work
 
-  - [Leads per Industry](https://drive.google.com/file/d/1GKRgAu4RGlaRkAkgeVu84S1O3-A9V8de/view?usp=sharing){target="_blank"}
+  - [Leads per Industry](https://drive.google.com/file/d/1GKRgAu4RGlaRkAkgeVu84S1O3-A9V8de/view?usp=sharing)
 
-  - [Email List Extraction](https://drive.google.com/file/d/1qy_nhM26ralcPj7kAmNNh9OS8L0QbhLD/view?usp=sharing){target="_blank"}
+  - [Email List Extraction](https://drive.google.com/file/d/1qy_nhM26ralcPj7kAmNNh9OS8L0QbhLD/view?usp=sharing)
 
-  - [Realtor Properties](https://drive.google.com/file/d/1ZlqydtY7NTI7p76d1q5mkJy_lLLKTMbk/view?usp=sharing){target="_blank"}
+  - [Realtor Properties](https://drive.google.com/file/d/1ZlqydtY7NTI7p76d1q5mkJy_lLLKTMbk/view?usp=sharing)
 
-  - [LinkedIn Schools List](https://drive.google.com/file/d/1UaYPVttDzqkpNhQbpRsUZ9kvA9KR0Wpl/view?usp=sharing){target="_blank"}
+  - [LinkedIn Schools List](https://drive.google.com/file/d/1UaYPVttDzqkpNhQbpRsUZ9kvA9KR0Wpl/view?usp=sharing)
 
 
 ### Testimonials
