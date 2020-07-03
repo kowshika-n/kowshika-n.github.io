@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://ogp.me/ns/fb#>
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,21 +24,26 @@
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="{{ "/icons/ms-icon-144x144.png" | absolute_url }}">
 	<meta name="theme-color" content="#ffffff">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+	<link rel="canonical" href="{{ page.url | prepend: site.url }}">
+	<meta name="keywords" content="Kowshika, Kowsihika N, Freelancer, Upwork, Fiverr, Freelance data analyst, Freelance web researcher, Freelance Automation specialist, Freelance tester, Python developer, Freelance web scraper, Freelance Scraping specialist">
+	<meta name="author" content="Kowshika N">
+  
 	{% if site.preview %}
 		<img style="display: none;" src="{{site.preview | relative_url}}" alt="preview" />
-		<meta property="og:title" content="{{ site.title | default: site.github.repository_name }}">
-		<meta property="og:type" content="website" />
+		<meta property="og:locale" content="en_US">
+		<meta property="og:type" content="article">
+		<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title | default: site.github.repository_name }}{% endif %}">
 		<meta property="og:url" content="{{"/" | relative_url}}" />
 		<meta property="og:image" content="{{site.preview | relative_url}}" />
 		<meta name="twitter:title" content="{{ site.title | default: site.github.repository_name }} ">
 		<meta name="twitter:image" content="{{site.preview | relative_url}}">
 	{% endif %}
+
+	{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
 
   </head>
   <body>
