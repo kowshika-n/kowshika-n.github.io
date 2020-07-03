@@ -35,6 +35,22 @@ I am open to a long-term as well as a short-term project. I have been working on
 
 ---
 
+[Python Scripting and Debugging](/python)
+
+<a href="/python">
+<img src="images/thumbnail3.jpg?raw=true"/>
+</a>
+
+
+---
+
+[Excel Macros and Data Visualization](/excel)
+
+<a href="/excel">
+<img src="images/thumbnail4.jpg?raw=true"/>
+</a>
+
+
 ---
 
 ---

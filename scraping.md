@@ -16,7 +16,7 @@ I have extensive experience in automating following tasks:
 
   - Scrape e-commerce products, price and images from Amazon/eBay/Flipkart/PayTM
 
-  - Parse unstructured text/pdf/image data into structured dataset
+  - Parse unstructured text/pdf/image data into a structured dataset
 
   - Cleanup excel data files using formulae/vba scripts and generate reports
 	
@@ -24,14 +24,14 @@ I have extensive experience in automating following tasks:
 
 
 
-### Sample Work
+### Work Samples
 
-  - [Movies List Extraction](https://drive.google.com/file/d/1L1zsJdZZVO2yKSyXi-abb6ceG1d5duK9/view?usp=sharing)
+  - <a href="https://drive.google.com/file/d/1L1zsJdZZVO2yKSyXi-abb6ceG1d5duK9/view?usp=sharing" target="_blank">Movies List Extraction</a>
 
-  - [News Portal Extraction](https://drive.google.com/file/d/15h22Rpw684i4joxQgSS_eiI8f4qcqnuw/view?usp=sharing)
+  - <a href="https://drive.google.com/file/d/15h22Rpw684i4joxQgSS_eiI8f4qcqnuw/view?usp=sharing" target="_blank">News Portal Scraping</a>
 
-  - [Instagram User Data](https://drive.google.com/file/d/14OZ4n-5eBoy4jZ7qcPnRg_5uVL6-H38k/view?usp=sharing)
-  
+  - <a href="https://drive.google.com/file/d/14OZ4n-5eBoy4jZ7qcPnRg_5uVL6-H38k/view?usp=sharing" target="_blank">Instagram User Data</a>
+
   
 ### Testimonials
 
