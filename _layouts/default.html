@@ -25,7 +25,7 @@
 	<meta name="msapplication-TileImage" content="{{ "/icons/ms-icon-144x144.png" | absolute_url }}">
 	<meta name="theme-color" content="#ffffff">
 	<link rel="canonical" href="{{ page.url | prepend: site.url }}">
-	<meta name="keywords" content="Kowshika, Kowsihika N, Freelancer, Upwork, Fiverr, Freelance data analyst, Freelance web researcher, Freelance Automation specialist, Freelance tester, Python developer, Freelance web scraper, Freelance Scraping specialist">
+	<meta name="keywords" content="Kowshika, Kowsihika N, Freelancer, Upwork, Fiverr, Freelance data analyst, Freelance web researcher, Freelance Automation specialist, Freelance tester, Python developer, Freelance web scraper, Freelance Scraping specialist, Lead generation, Market research, Excel macros, Python scripting">
 	<meta name="author" content="Kowshika N">
   
 	{% if site.preview %}
@@ -47,10 +47,6 @@
   <body>
     <div class="wrapper">
       <header>
-	  <a  style="display: none;" href="{{ site.url | absolute_url }}">site</a>
-	  <a  style="display: none;" href="{{ page.url | absolute_url }}">page</a>
-	  
-	  {% if site.url == page.url %}
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -70,7 +66,6 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-	{% endif %}
       </header>
       <section>
 
