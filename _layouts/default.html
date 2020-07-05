@@ -36,6 +36,7 @@
 		<meta name="twitter:image" content="{{site.preview | relative_url}}">
 	{% endif %}
 
+	<title>{{ page.title }} | {{ site.title }}</title>
 	{% seo %}
 
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -44,11 +45,12 @@
     <![endif]-->
 
   </head>
-  <body>
+ <body>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
+		{% if site.url | append:'/' == page.url %}
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -66,6 +68,7 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+		{% endif %}
       </header>
       <section>
 
