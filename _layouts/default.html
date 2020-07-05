@@ -50,6 +50,8 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
+		<a href="{{ "/" | site.url }}"></a>
+		<a href="{{ page.url }}"></a>
 		{% if site.url | append:'/' == page.url %}
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
