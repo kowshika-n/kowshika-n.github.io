@@ -52,9 +52,9 @@
         
 		<a href="{{ "/" | site.url }}"></a>
 		<a href="{{ page.url }}"></a>
-		{% if site.url | append:'/' == page.url %}
+		{% if  "/" | site.url == page.url %}
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <a href="{{ "/" | site.url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
         {% endif %}
 		
         <p>{{ site.description | default: site.github.project_tagline }}</p>
