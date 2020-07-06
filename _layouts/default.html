@@ -51,8 +51,8 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
 		<a href="{{ site.url | append:"/" }}"></a>
-		<a href="{{ page.url }}"></a>
-		{% if  ("/" | site.url) == (page.url) %}
+		<a href="{{ page.url | absolute_url }}"></a>
+		{% if  (site.url | append:"/") == (page.url) %}
         {% if site.logo %}
           <a href="{{ "/" | site.url }}"><img style="border: 1px solid #ffffff;border-radius: 50%;box-shadow: 0px 6px 5px #ccc;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;" src="{{site.logo | relative_url}}" alt="Logo" /></a>
         {% endif %}

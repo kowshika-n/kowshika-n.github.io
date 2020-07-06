@@ -1,11 +1,12 @@
 ## Kowshika Portfolio Site
 
   - Portfolio site is live [here](https://kowshika-n.github.io)
-  - Profile links, project details and client testimonials are added
+  - Profile links, project details and client testimonials are added.
+  - Feedback welcome.
   
   
 ### Hire me
-Looking for a expert web researcher and automation developer? Get in [touch](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/).
+Looking for an expert web researcher or automation developer? Get in touch @ [Upwork](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) or [Fiverr](https://www.fiverr.com/users/kowshikanagaraj).
 
 
 ### References
