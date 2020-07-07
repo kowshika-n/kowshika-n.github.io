@@ -10,6 +10,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/kowshika-n/">LinkedIn</a>&nbsp;&nbsp;<a href="https://github.com/kowshika-n/">GitHub</a> 
   <br>
 
+pagedescription:
+    is one of the many services that I offer to my clients. Based on the requirements, rate can be negotiated per project.
+  <br><br>
+  <a href="https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/">Upwork</a>&nbsp;&nbsp;&nbsp;<a href="https://www.fiverr.com/kowshikanagaraj/">Fiverr</a><br>
+  <a href="https://www.linkedin.com/in/kowshika-n/">LinkedIn</a>&nbsp;&nbsp;<a href="https://github.com/kowshika-n/">GitHub</a> 
+  <br>
+
 github_repo: "https://github.com/kowshika-n/kowshika-n.github.io.git" # you code repository
 
 theme: jekyll-theme-minimal
