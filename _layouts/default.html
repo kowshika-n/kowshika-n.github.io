@@ -48,17 +48,18 @@
  <body>
     <div class="wrapper">
       <header>
-		<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 		{% assign siteurl = (site.url | append:"/") %}
 		{% assign pageurl = (page.url | absolute_url) %}
 
 		{% if site.logo %}
 			{% if siteurl == pageurl %}
-			<a href="{{ "/" | site.url }}"><img style="border: 1px solid #ffffff;border-radius: 50%;box-shadow: 0px 6px 5px #ccc;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;" src="{{site.logo | relative_url}}" alt="Logo" /></a> <br/>
-			<p>{{ site.description | default: site.github.project_tagline }}</p>
+				<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+				<a href="{{ "/" | site.url }}"><img style="width:90%; border: 1px solid #ffffff;border-radius: 50%;box-shadow: 0px 6px 5px #ccc;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;" src="{{site.logo | relative_url}}" alt="Logo" /></a> <br/><br/>
+				<p>{{ site.description | default: site.github.project_tagline }}</p>
 			{% else %}
-			<a href="{{ "/" | site.url }}"><img style="width=80px; border: 1px solid #ffffff;border-radius: 50%;box-shadow: 0px 6px 5px #ccc;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;" src="{{site.logo | relative_url}}" alt="Logo" /></a> <br/>
-			<p>{{ page.title }} {{ site.pagedescription }}</p>
+				<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}
+				<img style="width: 23%;border: 1px solid #ffffff;border-radius: 50%;vertical-align: middle; box-shadow: 0px 2px 3px #ccc;-moz-box-shadow: 0px 2px 3px #ccc;-webkit-box-shadow: 0px 2px 3px #ccc;" src="{{site.logo | relative_url}}" alt="Logo" /></a></h1> <br/>
+				<p>{{ page.title }} {{ site.pagedescription }}</p>
 			{% endif %}
 		{% endif %}
 
