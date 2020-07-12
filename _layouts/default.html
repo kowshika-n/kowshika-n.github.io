@@ -33,6 +33,7 @@
 		<img style="display: none;" src="{{site.preview | relative_url}}" alt="preview" />
 		<meta property="og:type" content="article">
 		<meta property="og:image" content="{{site.preview | relative_url}}" />
+		<meta name="preview" content="{{site.preview2 | relative_url}}">
 		<meta name="twitter:title" content="{% if page.title %}{{ site.github.repository_name | page.title }}{% else %}{{ site.title | default: site.github.repository_name }}{% endif %}">
 		<meta name="twitter:image" content="{{site.preview | relative_url}}">
 	{% endif %}
