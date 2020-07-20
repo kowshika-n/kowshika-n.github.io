@@ -92,7 +92,32 @@
 	::-webkit-scrollbar-thumb:window-inactive {
 		background: #727272ad; 
 	}
+	.button {
+		background-color: white;
+		border: none;
+		color: white;
+		padding: 8px 10px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 10px;
+		margin: 4px 2px;
+		transition-duration: 0.4s;
+		cursor: pointer;
+		border-radius: 8px;
+	}
+	.button1 {
+		background-color: lightgrey;
+		color: black;
+		border: 2px solid #555555;
+	}
+	.button1:hover {
+		background-color: #555555;
+		color: white;
+	}
 	</style>
+	<script>if (localStorage.getItem('theme') === 'dark') { document.body.classList.add('dark'); }</script>
+
   </head>
  <body class>
     <div class="wrapper">
@@ -126,7 +151,7 @@
 			{% endif %}
 		{% endif %}
 		<br/>
-		<button id="theme-toggle" onclick="toggle()">Switch Theme</button>
+		<button  class="button button1" id="theme-toggle" onclick="toggle()">Switch Theme</button>
 
       </header>
       <section>
@@ -140,7 +165,7 @@
     localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
 	if (localStorage.getItem('theme') === 'dark') { document.body.classList.add('dark'); }
 	}
-</script>
+	</script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
