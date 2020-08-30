@@ -123,14 +123,8 @@
 	}
 	</style>
 	<script>if (localStorage.getItem('theme') === 'dark') { 
-		document.body.classList.add('dark'); 
-		document.querySelectorAll('h2').forEach((elem) => { elem.classList.add('dark'); });
-		document.querySelectorAll('h3').forEach((elem) => { elem.classList.add('dark'); });
-		document.querySelectorAll('h4').forEach((elem) => { elem.classList.add('dark'); });
-		document.querySelectorAll('h5').forEach((elem) => { elem.classList.add('dark'); });
-		document.querySelectorAll('h6').forEach((elem) => { elem.classList.add('dark'); });
-		document.querySelectorAll('strong').forEach((elem) => { elem.classList.add('dark'); });
-		}</script>
+		document.body.classList.add('dark'); }
+	</script>
 
   </head>
  <body class>
@@ -174,6 +168,15 @@
 
       </section>
     </div>
+	<script>if (localStorage.getItem('theme') === 'dark') { 
+		document.querySelectorAll('h2').forEach((elem) => { elem.classList.add('dark'); });
+		document.querySelectorAll('h3').forEach((elem) => { elem.classList.add('dark'); });
+		document.querySelectorAll('h4').forEach((elem) => { elem.classList.add('dark'); });
+		document.querySelectorAll('h5').forEach((elem) => { elem.classList.add('dark'); });
+		document.querySelectorAll('h6').forEach((elem) => { elem.classList.add('dark'); });
+		document.querySelectorAll('strong').forEach((elem) => { elem.classList.add('dark'); });
+		}
+	</script>
 	<script>
 	function toggle() { document.body.classList.toggle('dark');
 	localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
