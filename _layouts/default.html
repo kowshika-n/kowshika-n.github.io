@@ -186,6 +186,15 @@
 			document.querySelectorAll('h6').forEach((elem) => { elem.classList.add('dark'); });
 			document.querySelectorAll('strong').forEach((elem) => { elem.classList.add('dark'); });
 		}
+		if (localStorage.getItem('theme') === 'light') { 
+			document.body.classList.remove('dark'); 
+			document.querySelectorAll('h2').forEach((elem) => { elem.classList.remove('dark'); });
+			document.querySelectorAll('h3').forEach((elem) => { elem.classList.remove('dark'); });
+			document.querySelectorAll('h4').forEach((elem) => { elem.classList.remove('dark'); });
+			document.querySelectorAll('h5').forEach((elem) => { elem.classList.remove('dark'); });
+			document.querySelectorAll('h6').forEach((elem) => { elem.classList.remove('dark'); });
+			document.querySelectorAll('strong').forEach((elem) => { elem.classList.remove('dark'); });
+		}
 	}
 	</script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
