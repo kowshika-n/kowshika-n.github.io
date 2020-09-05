@@ -25,7 +25,7 @@
 	<meta name="msapplication-TileImage" content="{{ "/icons/ms-icon-144x144.png" | absolute_url }}">
 	<meta name="theme-color" content="#ffffff">
 	<link rel="canonical" href="{{ page.url | prepend: site.url }}">
-	<meta name="keywords" content="Kowshika, Kowsihika N, Freelancer, Upwork, Fiverr, Freelance data analyst, Freelance web researcher, Freelance Automation specialist, Freelance tester, Python developer, Freelance web scraper, Freelance Scraping specialist, Lead generation, Market research, Excel macros, Python scripting">
+	<meta name="keywords" content="{{site.keywords}}">
 	<meta name="author" content="Kowshika N">
 	<meta name="p:domain_verify" content="0f107c25407f1c8eb37f03f937936ee7"/>
   
@@ -46,93 +46,19 @@
     <![endif]-->
 	
 	<style>
-	/* For the "inset" look only */
-	html {
-		overflow: auto;
-	}
-	body {
-		background: #fff;
-		color: #727272;
-		position: absolute;
-		top: 10px;
-		left: 10px;
-		bottom: 10px;
-		right: 5px;
-		padding: 30px; 
-		overflow-y: scroll;
-		overflow-x: hidden;
-	}
-	h1, h2, h3, h4, h5, h6{
-		color: #494949;
-	}
-	
-	/* Dark mode */
-	body.dark {
-	  background: #000000e8;
-	  color: #c6c6c6f2;
-	}
-	h1.dark, h2.dark, h3.dark, h4.dark, h5.dark, h6.dark, p.dark, strong.dark{
-	  color: #d5d5d5
-	}
-
-	/* Custom scrolling*/
-	::-webkit-scrollbar {
-		width: 8px;
-	}
-	/* Track */
-	::-webkit-scrollbar-track {
-		-webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3); 
-		-webkit-border-radius: 3px;
-		border-radius: 3px;
-	}
-	/* Handle */
-	::-webkit-scrollbar-thumb {
-		-webkit-border-radius: 3px;
-		border-radius: 3px;
-		background: #727272; 
-		-webkit-box-shadow: inset 0 0 2px #727272; 
-	}
-	::-webkit-scrollbar-thumb:window-inactive {
-		background: #727272ad; 
-	}
-	.button {
-		color: #727272;
-		background-color: #fff;
-		border: none;
-		padding: 4px 5px;
-		text-align: center;
-		text-decoration: none;
-		display: inline-block;
-		font: 12px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-		font-weight: 400;
-		margin: 2px 1px;
-		transition-duration: 0.2s;
-		cursor: pointer;
-		border-radius: 8px;
-	}
-	.button1 {
-		background-color: lightgrey;
-		color: black;
-		border:none;
-	}
-	.button1:hover {
-		background-color: #555555;
-		color: white;
-		font-size: 11.45px;
-		font-weight: bold;
-	}
+html{overflow:auto}body{background:#fff;color:#727272;position:absolute;top:10px;left:10px;bottom:10px;right:5px;padding:30px;overflow-y:scroll;overflow-x:hidden}h1,h2,h3,h4,h5,h6{color:#494949}body.dark{background:#000000e8;color:#c6c6c6f2}h1.dark,h2.dark,h3.dark,h4.dark,h5.dark,h6.dark,p.dark,strong.dark{color:#d5d5d5}::-webkit-scrollbar{width:8px}::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 2px rgba(0,0,0,.3);-webkit-border-radius:3px;border-radius:3px}::-webkit-scrollbar-thumb{-webkit-border-radius:3px;border-radius:3px;background:#727272;-webkit-box-shadow:inset 0 0 2px #727272}::-webkit-scrollbar-thumb:window-inactive{background:#727272ad}.button{color:#727272;background-color:#fff;border:none;padding:4px 5px;text-align:center;text-decoration:none;display:inline-block;font:12px/1.5 "Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:400;margin:2px 1px;transition-duration:0.2s;cursor:pointer;border-radius:8px}.button1{background-color:lightgrey;color:#000;border:none}.button1:hover{background-color:#555;color:#fff;font-size:11.45px;font-weight:700}
 	</style>
-	<script>if (localStorage.getItem('theme') === 'dark') { 
-		document.body.classList.add('dark'); }
+
+	<script>
+	"dark"===localStorage.getItem("theme")&&document.body.classList.add("dark");
 	</script>
 
   </head>
- <body class>
+  <body class>
     <div class="wrapper">
       <header>
 		{% assign siteurl = (site.url | append:"/") %}
 		{% assign pageurl = (page.url | absolute_url) %}
-
 		{% if site.logo %}
 			{% if siteurl == pageurl %}
 				<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -168,37 +94,11 @@
 
       </section>
     </div>
-	<script>if (localStorage.getItem('theme') === 'dark') { 
-		document.querySelectorAll('h2').forEach((elem) => { elem.classList.add('dark'); });
-		document.querySelectorAll('h3').forEach((elem) => { elem.classList.add('dark'); });
-		document.querySelectorAll('h4').forEach((elem) => { elem.classList.add('dark'); });
-		document.querySelectorAll('h5').forEach((elem) => { elem.classList.add('dark'); });
-		document.querySelectorAll('h6').forEach((elem) => { elem.classList.add('dark'); });
-		document.querySelectorAll('strong').forEach((elem) => { elem.classList.add('dark'); });
-		}
+	<script>
+	"dark"===localStorage.getItem("theme")&&(document.querySelectorAll("h2").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h3").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h4").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h5").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h6").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("strong").forEach(e=>{e.classList.add("dark")}));
 	</script>
 	<script>
-	function toggle() { document.body.classList.toggle('dark');
-	localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
-		if (localStorage.getItem('theme') === 'dark') { 
-			document.body.classList.add('dark'); 
-			document.querySelectorAll('h2').forEach((elem) => { elem.classList.add('dark'); });
-			document.querySelectorAll('h3').forEach((elem) => { elem.classList.add('dark'); });
-			document.querySelectorAll('h4').forEach((elem) => { elem.classList.add('dark'); });
-			document.querySelectorAll('h5').forEach((elem) => { elem.classList.add('dark'); });
-			document.querySelectorAll('h6').forEach((elem) => { elem.classList.add('dark'); });
-			document.querySelectorAll('strong').forEach((elem) => { elem.classList.add('dark'); });
-		}
-		if (localStorage.getItem('theme') === 'light') { 
-			document.body.classList.remove('dark'); 
-			document.querySelectorAll('h2').forEach((elem) => { elem.classList.remove('dark'); });
-			document.querySelectorAll('h3').forEach((elem) => { elem.classList.remove('dark'); });
-			document.querySelectorAll('h4').forEach((elem) => { elem.classList.remove('dark'); });
-			document.querySelectorAll('h5').forEach((elem) => { elem.classList.remove('dark'); });
-			document.querySelectorAll('h6').forEach((elem) => { elem.classList.remove('dark'); });
-			document.querySelectorAll('strong').forEach((elem) => { elem.classList.remove('dark'); });
-		}
-	}
+	function toggle(){document.body.classList.toggle("dark"),localStorage.setItem("theme",document.body.classList.contains("dark")?"dark":"light"),"dark"===localStorage.getItem("theme")&&(document.body.classList.add("dark"),document.querySelectorAll("h2").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h3").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h4").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h5").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h6").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("strong").forEach(e=>{e.classList.add("dark")})),"light"===localStorage.getItem("theme")&&(document.body.classList.remove("dark"),document.querySelectorAll("h2").forEach(e=>{e.classList.remove("dark")}),document.querySelectorAll("h3").forEach(e=>{e.classList.remove("dark")}),document.querySelectorAll("h4").forEach(e=>{e.classList.remove("dark")}),document.querySelectorAll("h5").forEach(e=>{e.classList.remove("dark")}),document.querySelectorAll("h6").forEach(e=>{e.classList.remove("dark")}),document.querySelectorAll("strong").forEach(e=>{e.classList.remove("dark")}))}
 	</script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
