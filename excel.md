@@ -30,7 +30,7 @@ I have extensive experience in the following areas:
 ### HIRE ME
 
  - [Upwork.com](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/?s=1110580761541988352)
- - [Fiverr.com](https://www.fiverr.com/share/VrV4Bx)
+ - [Fiverr.com](https://www.fiverr.com/users/kowshikanagaraj/)
 
 ---
 

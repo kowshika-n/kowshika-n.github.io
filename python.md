@@ -22,11 +22,15 @@ I have extensive experience in developing python scripts that can:
   - <a href="https://github.com/kowshika-n/Python-Scrapers" target="_blank">Python Scripts Repository</a>
 
 
+### Testimonials
+
+<img src="images/testimonial3.png?raw=true"/>
+
 
 ### HIRE ME
 
  - [Upwork.com](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/?s=1110580748627726336)
- - [Fiverr.com](https://www.fiverr.com/share/1Exwvk)
+ - [Fiverr.com](https://www.fiverr.com/share/pwl5Bp)
  
 ---
 
