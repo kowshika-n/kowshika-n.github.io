@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true"
 preview: "/images/preview.png"
 preview2: "/images/preview_2.PNG"
 header-img: "/images/preview.png"
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: > # (remove <br> elements if you don't need line breaks)
   I am a reliable, fast learning and dedicated freelancer with more than 5 yrs of professional experience.<br>
   I deliver each task with the highest quality in a short time using latest automated tools and technologies. With 100% Job Success Score and experience working with worldwide clients, I render my services to you.
   <br><br>
@@ -18,9 +18,13 @@ pagedescription:
   <a href="https://www.linkedin.com/in/kowshika-n/">LinkedIn</a>&nbsp;&nbsp;<a href="https://github.com/kowshika-n/">GitHub</a> 
   <br>
 
-keywords: "Kowshika, Kowsihika N, Freelancer, Upwork, Fiverr, Freelance data analyst, Freelance web researcher, Freelance Automation specialist, Freelance tester, Python developer, Freelance web scraper, Freelance Scraping specialist, Lead generation, Market research, Excel macros, Python scripting, analyst, analytics, applications, automated, automation, business, clients, data, debugging, develop, developer, documents, entails, excel, experience, experienced, extraction, fiverr, freelancer, generation, github, industry, information, javascript, learning, linkedin, macros, management, open, parsing, portfolio, process, professional, project, projects, python, quality, reliable, research, researcher, scrape, scrapers, scraping, scripting, scripts, selenium, skilled, success, task, technologies, technology, visualization"
+author: "Kowshika"
+keywords: "Freelancer, Upwork, Fiverr, Freelance data analyst, Freelance web researcher, Freelance Automation specialist, Freelance tester, Python developer, Freelance web scraper, Freelance Scraping specialist, Lead generation, Market research, Excel macros, Python scripting, analyst, analytics, applications, automated, automation, business, clients, data, debugging, develop, developer, documents, entails, excel, experience, experienced, extraction, fiverr, freelancer, generation, github, industry, information, javascript, learning, linkedin, macros, management, open, parsing, portfolio, process, professional, project, projects, python, quality, reliable, research, researcher, scrape, scrapers, scraping, scripting, scripts, selenium, skilled, success, task, technologies, technology, visualization, Kowshika, Kowshika N, Kowshikha"
 
-github_repo: "https://github.com/kowshika-n/kowshika-n.github.io.git" # you code repository
+github_repo: "https://github.com/kowshika-n/kowshika-n.github.io.git"
+
+github_username:  kowshika-n
+linkedIn_username: kowshika-n
 
 theme: jekyll-theme-minimal
 google_analytics: UA-171309836-1
