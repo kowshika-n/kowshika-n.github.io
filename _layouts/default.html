@@ -57,6 +57,7 @@ html{overflow:auto}body{background:#fff;color:#727272;position:absolute;top:10px
 
   </head>
   <body class>
+	<button onclick="topFunction()" id="topBtn" title="Go to top">Top</button>
     <div class="wrapper">
       <header>
 		{% assign siteurl = (site.url | append:"/") %}
@@ -91,14 +92,25 @@ html{overflow:auto}body{background:#fff;color:#727272;position:absolute;top:10px
 
       </header>
       <section>
-	 <button onclick="topFunction()" id="topBtn" title="Go to top">Top</button>
 
       {{ content }}
 
       </section>
     </div>
 	<script>
-	var mybutton=document.getElementById("topBtn");function scrollFunction(){document.body.scrollTop>50||document.documentElement.scrollTop>50?mybutton.style.display="block":mybutton.style.display="none"}function topFunction(){document.body.scrollTop=0,document.documentElement.scrollTop=0}window.onscroll=function(){scrollFunction()};
+	var mybutton = document.getElementById("myBtn");
+	window.onscroll = function() {scrollFunction()};
+	function scrollFunction() {
+	  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		mybutton.style.display = "block";
+	  } else {
+		mybutton.style.display = "none";
+	  }
+	}
+	function topFunction() {
+	  document.body.scrollTop = 0;
+	  document.documentElement.scrollTop = 0;
+	}
 	</script>
 	<script>
 	"dark"===localStorage.getItem("theme")&&(document.querySelectorAll("h2").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h3").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h4").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h5").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h6").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("strong").forEach(e=>{e.classList.add("dark")}));
