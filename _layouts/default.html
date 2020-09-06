@@ -48,7 +48,7 @@
 	<style>
 html{overflow:auto}body{background:#fff;color:#727272;position:absolute;top:10px;left:10px;bottom:10px;right:5px;padding:30px;overflow-y:scroll;overflow-x:hidden}h1,h2,h3,h4,h5,h6{color:#494949}body.dark{background:#000000e8;color:#c6c6c6f2}h1.dark,h2.dark,h3.dark,h4.dark,h5.dark,h6.dark,p.dark,strong.dark{color:#d5d5d5}::-webkit-scrollbar{width:8px}::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 2px rgba(0,0,0,.3);-webkit-border-radius:3px;border-radius:3px}::-webkit-scrollbar-thumb{-webkit-border-radius:3px;border-radius:3px;background:#727272;-webkit-box-shadow:inset 0 0 2px #727272}::-webkit-scrollbar-thumb:window-inactive{background:#727272ad}
 .button{color:#727272;background-color:#fff;border:none;padding:4px 5px;text-align:center;text-decoration:none;display:inline-block;font:12px/1.5 "Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:400;margin:2px 1px;transition-duration:0.2s;cursor:pointer;border-radius:8px}.button1{background-color:lightgrey;color:#000;border:none}.button1:hover{background-color:#555;color:#fff;font-size:11.45px;font-weight:700}
-#topBtn{display:none;position:fixed;bottom:10px;right:20px;z-index:99;font-size:14px;border:none;outline:0;background-color:#069;color:#fff;cursor:pointer;padding:7px;border-radius:4px}#topBtn:hover{background-color:#267cb9}
+#topBtn{display:block;position:fixed;bottom:10px;right:20px;z-index:99;font-size:14px;border:none;outline:0;background-color:#069;color:#fff;cursor:pointer;padding:7px;border-radius:4px}#topBtn:hover{background-color:#267cb9}
 	</style>
 
 	<script>
@@ -97,11 +97,6 @@ html{overflow:auto}body{background:#fff;color:#727272;position:absolute;top:10px
 
       </section>
     </div>
-	<script>
-	var mybutton=document.getElementById("topBtn");function scrollFunction(){document.body.scrollTop>20||document.documentElement.scrollTop>20?mybutton.style.display="block":mybutton.style.display="none"}
-	function topFunction(){document.body.scrollTop=0,document.documentElement.scrollTop=0}
-	window.onload = function() { window.onscroll = scrollFunction };
-	</script>
 	<script>
 	"dark"===localStorage.getItem("theme")&&(document.querySelectorAll("h2").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h3").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h4").forEach(e=>{e.classList.add("dark")}),
 	document.querySelectorAll("h5").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("h6").forEach(e=>{e.classList.add("dark")}),document.querySelectorAll("strong").forEach(e=>{e.classList.add("dark")}));
