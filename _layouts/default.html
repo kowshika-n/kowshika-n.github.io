@@ -57,7 +57,7 @@ html{overflow:auto}body{background:#fff;color:#727272;position:absolute;top:10px
 
   </head>
   <body class>
-	<button onclick="topFunction()" id="topBtn" title="Go to top">Top</button>
+	<button onclick="function top(){ document.body.scrollTop=0,document.documentElement.scrollTop=0 };top()" id="topBtn" title="Go to top">Top</button>
     <div class="wrapper">
       <header>
 		{% assign siteurl = (site.url | append:"/") %}
