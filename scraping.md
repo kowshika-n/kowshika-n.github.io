@@ -38,8 +38,9 @@ I have extensive experience in automating following tasks:
   
 ### Testimonials
 
-<img src="images/testimonial2.png?raw=true"/>
-
+<img src="images/testimonial3.png?raw=true"/>
+<br/>
+<img src="images/testimonial5.png?raw=true"/>
 
 
 ### HIRE ME

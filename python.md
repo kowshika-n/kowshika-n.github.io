@@ -28,7 +28,9 @@ I have extensive experience in developing python scripts that can:
 
 ### Testimonials
 
-<img src="images/testimonial3.png?raw=true"/>
+<img src="images/testimonial4.png?raw=true"/>
+<br/>
+<img src="images/testimonial6.png?raw=true"/>
 
 
 ### HIRE ME

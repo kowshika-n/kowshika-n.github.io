@@ -37,6 +37,8 @@ My other skills along with Web Research are Data Mining, Data Extraction, MS Exc
 ### Testimonials
 
 <img src="images/testimonial1.png?raw=true"/>
+<br/>
+<img src="images/testimonial2.png?raw=true"/>
 
 
 
