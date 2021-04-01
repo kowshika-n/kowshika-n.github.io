@@ -6,16 +6,19 @@ I am an expert in software development and debugging Python. I can debug/update/
 
 I have extensive experience in developing python scripts that can:
 
-  - Convert video to audio, pdf to word, excel to xml, etc..
+  - Scrape websites and social media content using Selenium or APIs.
 
-  - Compare products and price from Amazon/eBay/Flipkart/PayTM
+  - Convert video to audio, pdf to word, excel to XML, XML to JSON, JSON to CSV, etc.
+
+  - Compare products and prices from different eCommerce sites like Amazon, eBay, Flipkart, Paytm.
   
-  - Debug and update client's existing scripts and help it run again
+  - Debug and update the client's existing scripts and help them run again.
 
-  - Parse unstructured text/pdf/image data into a structured dataset
+  - Parse unstructured text/pdf/image data into a structured dataset of Excel/CSV files.
 
-  - Convert Python 2 scripts to Python 3 scripts
+  - Convert Python 2 scripts to Python 3 scripts.
   
+
 
 ### Work Samples
 

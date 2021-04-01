@@ -6,12 +6,11 @@ I am an experienced Business Process and Data Analyst with a demonstrated histor
 
 I am highly skilled in Web Research, Data Analytics, Project Management.
 
-I also develop Automation scripts using Selenium, Python and JavaScript to test applications and scrape data from websites.
+I also develop Automation scripts using Selenium, Python, JavaScript, and PowerShell to scrape data and test web applications.
 
-I have worked on projects that entails data scraping, parsing, and normalizing large volumes of data. I can extract data from websites, Images, Videos, PDF files, XML documents, and many more formats. I can run multiple scrapers simultaneously to give most value in least amount of time. I can provide ouput data in any format the job requires.
+I have worked on projects that entail data scraping, parsing, and normalizing large volumes of data. I can extract data from websites, Images, Videos, PDF/XML/JSON files, and many more formats. I can run multiple scrapers simultaneously to give the most value in the least amount of time. I can provide output data in any format the job requires.
 
-I am open to a long-term as well as a short-term project. I have been working on large-scale data extraction projects and assure you I can handle your next big scraping project.
-
+I am open to a long-term as well as a short-term project. I have been working on large-scale research and data mining projects and assure you I can handle your next big project.
 
 ---
 

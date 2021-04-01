@@ -17,9 +17,11 @@ I have extensive experience in the following areas:
   - PDF Conversion and more.
 
 
-I have also worked on projects related to hotel management database having the knowledge of the hospitality field and familiar with the online sites like Tripadvisor, Booking.com, Agoda, Expedia and more.
+I have delivered leads for customers in multiple industries such as Medicine, Pharma, Cosmetics, Automobile, Manufacturing, Non-Profits, etc...
 
-My other skills along with Web Research are Data Mining, Data Extraction, MS Excel, MS Word, Data Scraping, Data Cleanup, Data Consolidation, Data Organizing, Data Validation, and more
+I have also worked on projects related to hotel management with the knowledge of the hospitality field and familiarity with online sites like Tripadvisor, Booking.com, Agoda, Expedia.
+
+Apart from Web Research, my other skills include Data Mining, Data Extraction, MS Excel, MS Word, Data Scraping, Data Cleanup, Data Consolidation, Data Organizing, Data Validation, and more.
 
 
 ### Work Samples
