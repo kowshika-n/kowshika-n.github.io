@@ -56,8 +56,20 @@ I am open to a long-term as well as a short-term project. I have been working on
 
 ### HIRE ME
 
- - [Upwork.com](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/)
- - [Fiverr.com](https://www.fiverr.com/kowshikanagaraj/)
+<a href="https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/">
+<figure>
+  <img src="images/UpworkJobs.png" Upworkstyle="width:100%">
+  <figcaption>Upwork.com</figcaption>
+</figure>
+</a>
+
+<a href="https://www.fiverr.com/kowshikanagaraj/">
+<figure>
+  <img src="images/FiverrGigs.png" alt="Fiverr" style="width:100%">
+  <figcaption>Fiverr.com</figcaption>
+</figure>
+</a>
+
 
 ---
 
