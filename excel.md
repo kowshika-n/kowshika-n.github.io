@@ -29,9 +29,13 @@ I have extensive experience in the following areas:
 
 ### HIRE ME
 
- - [Upwork.com](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/?s=1110580761541988352)
- - [Fiverr.com](https://www.fiverr.com/users/kowshikanagaraj/)
+<p float="left">
+  <a href="https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/">
+  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Profile" width="275" />
+  </a>
+  
+  <a href="https://www.fiverr.com/kowshikanagaraj/">
+  <img src="images/FiverrGigs.png" alt="Kowshika Fiverr Gigs" width="200"/>
+  </a>
+</p>
 
----
-
----

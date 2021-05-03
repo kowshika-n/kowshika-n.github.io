@@ -37,9 +37,13 @@ I have extensive experience in developing python scripts that can:
 
 ### HIRE ME
 
- - [Upwork.com](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/?s=1110580748627726336)
- - [Fiverr.com](https://www.fiverr.com/share/pwl5Bp)
- 
----
+<p float="left">
+  <a href="https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/">
+  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Profile" width="275" />
+  </a>
+  
+  <a href="https://www.fiverr.com/kowshikanagaraj/">
+  <img src="images/FiverrGigs.png" alt="Kowshika Fiverr Gigs" width="200"/>
+  </a>
+</p>
 
----

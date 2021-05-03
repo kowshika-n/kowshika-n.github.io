@@ -66,7 +66,3 @@ I am open to a long-term as well as a short-term project. I have been working on
   </a>
 </p>
 
-
----
-
----
