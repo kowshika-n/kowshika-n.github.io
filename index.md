@@ -58,7 +58,7 @@ I am open to a long-term as well as a short-term project. I have been working on
 
 <p float="left">
   <a href="https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/">
-  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Profile" width="275" />
+  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Profile" width="238" />
   </a>
   
   <a href="https://www.fiverr.com/kowshikanagaraj/">

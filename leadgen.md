@@ -48,7 +48,7 @@ Apart from Web Research, my other skills include Data Mining, Data Extraction, M
 
 <p float="left">
   <a href="https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/">
-  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Profile" width="275" />
+  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Profile" width="238" />
   </a>
   
   <a href="https://www.fiverr.com/kowshikanagaraj/">
