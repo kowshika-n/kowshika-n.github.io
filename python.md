@@ -24,6 +24,9 @@ I have extensive experience in developing python scripts that can:
 
   - <a href="https://github.com/kowshika-n/Python-Scrapers" target="_blank">Python Scripts Repository</a>
 
+  - <a href="https://github.com/kowshika-n/WebScraping_Userscripts" target="_blank">Javascript Repository</a>
+
+
   <iframe width="500" height="300" src="https://www.youtube.com/embed/F4O9TB-VRj0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   
@@ -38,12 +41,12 @@ I have extensive experience in developing python scripts that can:
 ### HIRE ME
 
 <p float="left">
-  <a href="https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/">
-  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Profile" width="238" />
+  <a href="https://www.upwork.com/services/product/i-will-debug-your-existing-python-scripts-to-help-you-fix-issues-1314550606372876288/">
+  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Freelancer Python Debugging" width="238" />
   </a>
   
-  <a href="https://www.fiverr.com/kowshikanagaraj/">
-  <img src="images/FiverrGigs.png" alt="Kowshika Fiverr Gigs" width="200"/>
+  <a href="https://www.fiverr.com/kowshikanagaraj/debug-your-existing-python-scripts-to-help-you-fix-issues/">
+  <img src="images/FiverrGigs.png" alt="Kowshika Fiverr Python Debugging" width="200"/>
   </a>
 </p>
 

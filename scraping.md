@@ -46,12 +46,12 @@ I have extensive experience in automating following tasks:
 ### HIRE ME
 
 <p float="left">
-  <a href="https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/">
-  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Profile" width="238" />
+  <a href="https://www.upwork.com/services/product/i-will-automate-web-scraping-using-python-selenium-1314550608575967232/">
+  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Freelancer Scraping Job" width="238" />
   </a>
   
-  <a href="https://www.fiverr.com/kowshikanagaraj/">
-  <img src="images/FiverrGigs.png" alt="Kowshika Fiverr Gigs" width="200"/>
+  <a href="https://www.fiverr.com/kowshikanagaraj/automate-web-scraping-using-python-selenium/">
+  <img src="images/FiverrGigs.png" alt="Kowshika Fiverr Freelancer Scraping Gigs" width="200"/>
   </a>
 </p>
 

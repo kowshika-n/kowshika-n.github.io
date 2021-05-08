@@ -47,12 +47,12 @@ Apart from Web Research, my other skills include Data Mining, Data Extraction, M
 ### HIRE ME
 
 <p float="left">
-  <a href="https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/">
-  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Profile" width="238" />
+  <a href="https://www.upwork.com/freelancers/~01839791ddb1ede3fa?s=1110580761541988352/">
+  <img src="images/UpworkJobs.png" alt="Kowshika Upwork Freelancer Lead Generation" width="238" />
   </a>
   
-  <a href="https://www.fiverr.com/kowshikanagaraj/">
-  <img src="images/FiverrGigs.png" alt="Kowshika Fiverr Gigs" width="200"/>
+  <a href="https://www.fiverr.com/kowshikanagaraj/expert-web-researcher-and-virtual-assistant/">
+  <img src="images/FiverrGigs.png" alt="Kowshika Fiverr Freelancer Lead Generation" width="200"/>
   </a>
 </p>
 
