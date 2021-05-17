@@ -6,7 +6,10 @@
   
   
 ### Hire me
-Looking for an expert web researcher or automation developer? Get in touch @ [Upwork](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) or [Fiverr](https://www.fiverr.com/users/kowshikanagaraj).
+Looking for an expert web researcher or automation developer? Get in touch!
+
+[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 
+
 
 
 ### References
