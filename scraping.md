@@ -55,3 +55,5 @@ I have extensive experience in automating following tasks:
   </a>
 </p>
 
+
+&emsp;[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 
