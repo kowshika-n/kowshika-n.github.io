@@ -1,62 +1,60 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}" xmlns="http://www.w3.org/1999/xhtml"
       xmlns:fb="http://ogp.me/ns/fb#>
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="shortcut icon" href="{{ "/icons/favicon.ico" | absolute_url }}" type="image/x-icon">
-	<link rel="icon" href="{{ "/icons/favicon.ico" | absolute_url }}" type="image/x-icon">
-	<link rel="apple-touch-icon" sizes="57x57" href="{{ "/icons/apple-icon-57x57.png" | absolute_url }}">
-	<link rel="apple-touch-icon" sizes="60x60" href="{{ "/icons/apple-icon-60x60.png" | absolute_url }}">
-	<link rel="apple-touch-icon" sizes="72x72" href="{{ "/icons/apple-icon-72x72.png" | absolute_url }}">
-	<link rel="apple-touch-icon" sizes="76x76" href="{{ "/icons/apple-icon-76x76.png" | absolute_url }}">
-	<link rel="apple-touch-icon" sizes="114x114" href="{{ "/icons/apple-icon-114x114.png" | absolute_url }}">
-	<link rel="apple-touch-icon" sizes="120x120" href="{{ "/icons/apple-icon-120x120.png" | absolute_url }}">
-	<link rel="apple-touch-icon" sizes="144x144" href="{{ "/icons/apple-icon-144x144.png" | absolute_url }}">
-	<link rel="apple-touch-icon" sizes="152x152" href="{{ "/icons/apple-icon-152x152.png" | absolute_url }}">
-	<link rel="apple-touch-icon" sizes="180x180" href="{{ "/icons/apple-icon-180x180.png" | absolute_url }}">
-	<link rel="icon" type="image/png" sizes="192x192"  href="{{ "/icons/android-icon-192x192.png" | absolute_url }}">
-	<link rel="icon" type="image/png" sizes="32x32" href="{{ "/icons/favicon-32x32.png" | absolute_url }}">
-	<link rel="icon" type="image/png" sizes="96x96" href="{{ "/icons/favicon-96x96.png" | absolute_url }}">
-	<link rel="icon" type="image/png" sizes="16x16" href="{{ "/icons/favicon-16x16.png" | absolute_url }}">
-	<link rel="manifest" href="{{ "/icons/manifest.json" | absolute_url }}">
-	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-TileImage" content="{{ "/icons/ms-icon-144x144.png" | absolute_url }}">
-	<meta name="theme-color" content="#ffffff">
-	<link rel="canonical" href="{{ page.url | prepend: site.url }}">
-	<meta name="keywords" content="{{site.keywords}}">
-	<meta name="author" content="{{site.author}}">
-	<meta name="p:domain_verify" content="0f107c25407f1c8eb37f03f937936ee7"/>
-  
-	{% if site.preview %}
-		<img style="display: none;" src="{{site.preview | relative_url}}" alt="preview" />
-		<meta property="og:type" content="article">
-		<meta property="og:image" content="{{site.preview | relative_url}}" />
-		<meta name="preview" content="{{site.preview2 | relative_url}}">
-		<meta name="twitter:title" content="{% if page.title %}{{ site.github.repository_name | page.title }}{% else %}{{ site.title | default: site.github.repository_name }}{% endif %}">
-		<meta name="twitter:image" content="{{site.preview | relative_url}}">
-	{% endif %}
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="{{ "/icons/favicon.ico" | absolute_url }}" type="image/x-icon">
+<link rel="icon" href="{{ "/icons/favicon.ico" | absolute_url }}" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="{{ "/icons/apple-icon-57x57.png" | absolute_url }}">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ "/icons/apple-icon-60x60.png" | absolute_url }}">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ "/icons/apple-icon-72x72.png" | absolute_url }}">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ "/icons/apple-icon-76x76.png" | absolute_url }}">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ "/icons/apple-icon-114x114.png" | absolute_url }}">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ "/icons/apple-icon-120x120.png" | absolute_url }}">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ "/icons/apple-icon-144x144.png" | absolute_url }}">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ "/icons/apple-icon-152x152.png" | absolute_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "/icons/apple-icon-180x180.png" | absolute_url }}">
+<link rel="icon" type="image/png" sizes="192x192"  href="{{ "/icons/android-icon-192x192.png" | absolute_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "/icons/favicon-32x32.png" | absolute_url }}">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ "/icons/favicon-96x96.png" | absolute_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "/icons/favicon-16x16.png" | absolute_url }}">
+<link rel="manifest" href="{{ "/icons/manifest.json" | absolute_url }}">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="{{ "/icons/ms-icon-144x144.png" | absolute_url }}">
+<meta name="theme-color" content="#ffffff">
+<link rel="canonical" href="{{ page.url | prepend: site.url }}">
+<meta name="keywords" content="{{site.keywords}}">
+<meta name="author" content="{{site.author}}">
+<meta name="p:domain_verify" content="0f107c25407f1c8eb37f03f937936ee7"/>
 
-	{% seo %}
+{% if site.preview %}
+<img style="display: none;" src="{{site.preview | relative_url}}" alt="preview" />
+<meta property="og:type" content="article">
+<meta property="og:image" content="{{site.preview | relative_url}}" />
+<meta name="preview" content="{{site.preview2 | relative_url}}">
+<meta name="twitter:title" content="{% if page.title %}{{ site.github.repository_name | page.title }}{% else %}{{ site.title | default: site.github.repository_name }}{% endif %}">
+<meta name="twitter:image" content="{{site.preview | relative_url}}">
+{% endif %}
+{% seo %}
+<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+<!--[if lt IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
 
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-	
-	<style>
+<style>
 html{overflow:auto}body{background:#fff;color:#727272;position:absolute;top:10px;left:10px;bottom:10px;right:5px;padding:30px;overflow-y:scroll;overflow-x:hidden}h1,h2,h3,h4,h5,h6{color:#494949}body.dark{background:#000000e8;color:#c6c6c6f2}h1.dark,h2.dark,h3.dark,h4.dark,h5.dark,h6.dark,p.dark,strong.dark{color:#d5d5d5}::-webkit-scrollbar{width:8px}::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 2px rgba(0,0,0,.3);-webkit-border-radius:3px;border-radius:3px}::-webkit-scrollbar-thumb{-webkit-border-radius:3px;border-radius:3px;background:#727272;-webkit-box-shadow:inset 0 0 2px #727272}::-webkit-scrollbar-thumb:window-inactive{background:#727272ad}
-.button{color:#727272;background-color:#fff;border:none;padding:4px 5px;text-align:center;text-decoration:none;display:inline-block;font:12px/1.5 "Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:400;margin:2px 1px;transition-duration:0.2s;cursor:pointer;border-radius:8px}.button1{background-color:lightgrey;color:#000;border:none}.button1:hover{background-color:#555;color:#fff;font-size:11.45px;font-weight:700}
+.button{color:#727272;background-color:#fff;border:none;padding:4px 5px;text-align:center;text-decoration:none;display:inline-block;font:12px/1.5 "Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:400;margin:2px 1px;transition-duration:0.2s;cursor:pointer;border-radius:8px}.button1{background-color:lightgrey;color:#000;border:none}.button1:hover{background-color:#555;color:#fff;font-size:11.45px;}
 #topBtn{display:block;position:fixed;bottom:10px;right:20px;z-index:99;font-size:14px;border:none;outline:0;background-color:#069;color:#fff;cursor:pointer;padding:7px;border-radius:4px}#topBtn:hover{background-color:#267cb9}
-	</style>
+</style>
 
-	<script>
-	"dark"===localStorage.getItem("theme")&&document.body.classList.add("dark");
-	</script>
+<script>
+"dark"===localStorage.getItem("theme")&&document.body.classList.add("dark");
+</script>
 
-  </head>
-  <body class>
+</head>
+<body class>
 	<button onclick="function top(){ document.body.scrollTop=0,document.documentElement.scrollTop=0 };top()" id="topBtn" title="Go to top">Top</button>
     <div class="wrapper">
       <header>
@@ -65,7 +63,7 @@ html{overflow:auto}body{background:#fff;color:#727272;position:absolute;top:10px
 		{% if site.logo %}
 			{% if siteurl == pageurl %}
 				<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-				<a href="{{ "/" | site.url }}"><img style="width:90%; border: 1px solid #ffffff;border-radius: 50%;box-shadow: 0px 6px 5px #ccc;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;" src="{{site.logo | relative_url}}" alt="Logo" /></a> <br/><br/>
+				<a href="{{ "/" | site.url }}"><img style="width:65%; border: 1px solid #ffffff;border-radius: 50%;box-shadow: 0px 6px 5px #ccc;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;" src="{{site.logo | relative_url}}" alt="Logo" /></a> <br/><br/>
 				<p>{{ site.description | default: site.github.project_tagline }}</p>
 			{% else %}
 				<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}
@@ -106,6 +104,7 @@ html{overflow:auto}body{background:#fff;color:#727272;position:absolute;top:10px
 	document.querySelectorAll("strong").forEach(e=>{e.classList.add("dark")})),"light"===localStorage.getItem("theme")&&(document.body.classList.remove("dark"),document.querySelectorAll("h2").forEach(e=>{e.classList.remove("dark")}),document.querySelectorAll("h3").forEach(e=>{e.classList.remove("dark")}),document.querySelectorAll("h4").forEach(e=>{e.classList.remove("dark")}),document.querySelectorAll("h5").forEach(e=>{e.classList.remove("dark")}),document.querySelectorAll("h6").forEach(e=>{e.classList.remove("dark")}),document.querySelectorAll("strong").forEach(e=>{e.classList.remove("dark")}))}
 	</script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
