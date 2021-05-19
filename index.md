@@ -20,41 +20,41 @@ I am open to a long-term as well as a short-term project. I have been working on
 
 [Web Research and Lead Generation](/leadgen)
 
-<a href="/leadgen">
 <div class="hover1">
+<a href="/leadgen">
 <img src="images/thumbnail1.jpg?raw=true" alt="Web Research and Lead Generation Freelance work"/>
-</div>
 </a>
+</div>
 
 ---
 
 [Web scraping and Automation](/scraping)
 
-<a href="/scraping">
 <div class="hover1">
+<a href="/scraping">
 <img src="images/thumbnail2.jpg?raw=true" alt="Web scraping and Automation Freelance work"/>
-</div>
 </a>
+</div>
 
 ---
 
 [Python Scripting and Debugging](/python)
 
-<a href="/python">
 <div class="hover1">
+<a href="/python">
 <img src="images/thumbnail3.jpg?raw=true" alt="Python Scripting and Debugging Freelance work"/>
-</div>
 </a>
+</div>
 
 ---
 
 [Excel Macros and Data Visualization](/excel)
 
-<a href="/excel">
 <div class="hover1">
+<a href="/excel">
 <img src="images/thumbnail4.jpg?raw=true" alt="Excel Macros and Data Visualization Freelance work"/>
-</div>
 </a>
+</div>
 
 ---
 
@@ -73,4 +73,4 @@ I am open to a long-term as well as a short-term project. I have been working on
 </p>
 
 
-&emsp;[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 
+&emsp;[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 
