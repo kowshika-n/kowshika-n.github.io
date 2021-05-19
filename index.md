@@ -2,15 +2,15 @@
 
 ### Expert Data Analyst | Web Researcher | Automation Developer | Data Scraping Specialist
 
-I am an experienced Business Process and Data Analyst with a demonstrated history of working in the Information Technology and Services industry for more than 5 years.
+I am an experienced Business Process and Data Analyst with a demonstrated history of delivering value for more than six years in the Information Technology and Services industry.
 
 I am highly skilled in Web Research, Data Analytics, Project Management, and Lead Generation.
 
-I also develop Automation scripts using Selenium, Python, JavaScript, and PowerShell to scrape data and test web applications.
+I also develop Automation scripts using Selenium, Python, JavaScript, Robot Framework, and PowerShell to scrape data and test web applications.
 
-I have worked on projects that entail data scraping, parsing, and normalizing large volumes of data. I can extract data from websites, Images, Videos, PDF/XML/JSON files, and many more formats. I can run multiple scrapers simultaneously to give the most value in the least amount of time. I can provide output data in any format the job requires.
+I have worked on projects that entail data scraping, parsing, and normalizing large volumes of data. I can extract data from websites and provide output data in any format/template the job requires.
 
-I generate Company competitor analysis reports and App comparison reports with detailed pros and cons based on their customers reviews.
+I generate company competitor analysis reports and app comparison reports with detailed pros and cons based on customer reviews.
 
 I am open to a long-term as well as a short-term project. I have been working on large-scale research and data mining projects and assure you I can handle your next big project.
 
@@ -21,7 +21,9 @@ I am open to a long-term as well as a short-term project. I have been working on
 [Web Research and Lead Generation](/leadgen)
 
 <a href="/leadgen">
+<div class="hover1">
 <img src="images/thumbnail1.jpg?raw=true" alt="Web Research and Lead Generation Freelance work"/>
+</div>
 </a>
 
 ---
@@ -29,7 +31,9 @@ I am open to a long-term as well as a short-term project. I have been working on
 [Web scraping and Automation](/scraping)
 
 <a href="/scraping">
+<div class="hover1">
 <img src="images/thumbnail2.jpg?raw=true" alt="Web scraping and Automation Freelance work"/>
+</div>
 </a>
 
 ---
@@ -37,7 +41,9 @@ I am open to a long-term as well as a short-term project. I have been working on
 [Python Scripting and Debugging](/python)
 
 <a href="/python">
+<div class="hover1">
 <img src="images/thumbnail3.jpg?raw=true" alt="Python Scripting and Debugging Freelance work"/>
+</div>
 </a>
 
 ---
@@ -45,7 +51,9 @@ I am open to a long-term as well as a short-term project. I have been working on
 [Excel Macros and Data Visualization](/excel)
 
 <a href="/excel">
+<div class="hover1">
 <img src="images/thumbnail4.jpg?raw=true" alt="Excel Macros and Data Visualization Freelance work"/>
+</div>
 </a>
 
 ---
