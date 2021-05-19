@@ -26,13 +26,15 @@ Apart from Web Research, my other skills include Data Mining, Data Extraction, M
 
 ### Work Samples
 
-  - <a href="https://drive.google.com/file/d/1GKRgAu4RGlaRkAkgeVu84S1O3-A9V8de/view?usp=sharing" target="_blank">Leads per Industry</a>
+  - <a href="https://drive.google.com/file/d/1rZBSVrwYL9uBYgzkaSgEmn0oajwsc89g/view?usp=sharing" target="_blank">Leads per Industry</a>
 
-  - <a href="https://drive.google.com/file/d/1qy_nhM26ralcPj7kAmNNh9OS8L0QbhLD/view?usp=sharing" target="_blank">Email List Extraction</a>
+  - <a href="https://drive.google.com/file/d/1KvcdW-UHYreJ468egZZmqIXoyz_zhkk1/view?usp=sharing" target="_blank">LinkedIn Schools Contact List</a>  
 
-  - <a href="https://drive.google.com/file/d/1ZlqydtY7NTI7p76d1q5mkJy_lLLKTMbk/view?usp=sharing" target="_blank">Realtor Properties</a>
+  - <a href="https://drive.google.com/file/d/1wFzoP2ETOEte8217v8nakK9fDA3MxcqE/view?usp=sharing" target="_blank">Law Firms List</a>
+
+  - <a href="https://drive.google.com/file/d/1--BCELDZD8FmJ3Kb8CJTnGjTJda8BY5T/view?usp=sharing" target="_blank">Realtor Properties</a>
   
-  - <a href="https://drive.google.com/file/d/1UaYPVttDzqkpNhQbpRsUZ9kvA9KR0Wpl/view?usp=sharing" target="_blank">LinkedIn Schools List</a>
+  - <a href="https://drive.google.com/file/d/1qRPKWAXTgt6d28lR_FF3B0dNer-uLdUl/view?usp=sharing" target="_blank">Etsy Shop Data</a>
 
 
 
@@ -57,4 +59,4 @@ Apart from Web Research, my other skills include Data Mining, Data Extraction, M
 </p>
 
 
-&emsp;[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 
+&emsp;[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 

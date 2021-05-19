@@ -38,6 +38,16 @@ I am open to a long-term as well as a short-term project. I have been working on
 
 ---
 
+[Competitor Analysis / Comparison Report ](/analysis)
+
+<div class="hover1">
+<a href="/analysis">
+<img src="images/thumbnail5.jpg?raw=true" alt="Competitor Analysis and Comparison Report Freelance work"/>
+</a>
+</div>
+
+---
+
 [Python Scripting and Debugging](/python)
 
 <div class="hover1">

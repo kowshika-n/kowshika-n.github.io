@@ -8,6 +8,8 @@ I have extensive experience in developing python scripts that can:
 
   - Scrape websites and social media content using Selenium or APIs.
 
+  - Functional / Regression / End to End testing of web applications using Automation.
+
   - Convert video to audio, pdf to word, excel to XML, XML to JSON, JSON to CSV, etc.
 
   - Compare products and prices from different eCommerce sites like Amazon, eBay, Flipkart, Paytm.
@@ -26,6 +28,13 @@ I have extensive experience in developing python scripts that can:
 
   - <a href="https://github.com/kowshika-n/WebScraping_Userscripts" target="_blank">Javascript Repository</a>
 
+  - <a href="https://drive.google.com/file/d/1LsLwyK1PHsuZbBP0R1djU0I5zoltVEwq/view?usp=sharing" target="_blank">Twitter Data Sample Output</a>
+
+  - <a href="https://drive.google.com/file/d/1cMpeLZMF_6i6PDp-THLK-veGV8htLPOM/view?usp=sharing" target="_blank">Property Data Sample Output</a>
+
+  - <a href="https://drive.google.com/file/d/1ooBpXMFELS3Hyf_Mkcko-U_E08zH9llP/view?usp=sharing" target="_blank">NYC Population Sample Output</a>
+
+	<br/>
 
   <iframe width="500" height="300" src="https://www.youtube.com/embed/F4O9TB-VRj0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
@@ -51,4 +60,4 @@ I have extensive experience in developing python scripts that can:
 </p>
 
 
-&emsp;[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 
+&emsp;[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 

@@ -25,6 +25,8 @@ I have extensive experience in the following areas:
 
   - <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqHS4oHc_FYUJpTeVeDJgockSTlP6s_Epl2SGAs6GHtMg4YgWq4-2skpMgYCepMA/pubhtml?gid=1700159221&single=true" target="_blank">Cars and Bikes Data Analysis</a>
 
+  - <a href="https://drive.google.com/file/d/1dMSBhEE81N1ZfG2egLoORUAAu2O-pBOO/view?usp=sharing" target="_blank">Sentiment Analysis for CRM Usage</a>
+
 
 
 ### HIRE ME
@@ -40,4 +42,4 @@ I have extensive experience in the following areas:
 </p>
 
 
-&emsp;[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 
+&emsp;[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 

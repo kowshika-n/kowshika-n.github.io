@@ -26,11 +26,15 @@ I have extensive experience in automating following tasks:
 
 ### Work Samples
 
-  - <a href="https://drive.google.com/file/d/1L1zsJdZZVO2yKSyXi-abb6ceG1d5duK9/view?usp=sharing" target="_blank">Movies List Extraction</a>
-
-  - <a href="https://drive.google.com/file/d/15h22Rpw684i4joxQgSS_eiI8f4qcqnuw/view?usp=sharing" target="_blank">News Portal Scraping</a>
+  - <a href="https://drive.google.com/file/d/1dhbKuZsmERYetixFb14Vs6sxYjmN1oAN/view?usp=sharing" target="_blank">Google Search Results Scraping</a>
 
   - <a href="https://drive.google.com/file/d/14OZ4n-5eBoy4jZ7qcPnRg_5uVL6-H38k/view?usp=sharing" target="_blank">Instagram User Data</a>
+
+  - <a href="https://drive.google.com/file/d/1iHIygGUR3zjX_KcGOx8oPdfWHL5XAaO8/view?usp=sharing" target="_blank">LinkedIn Company Data Extraction</a>
+
+  - <a href="https://drive.google.com/file/d/1qRPKWAXTgt6d28lR_FF3B0dNer-uLdUl/view?usp=sharing" target="_blank">Etsy Shop Data Extraction</a>
+
+	<br/>
 
   <iframe width="500" height="300" src="https://www.youtube.com/embed/F4O9TB-VRj0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
@@ -56,4 +60,4 @@ I have extensive experience in automating following tasks:
 </p>
 
 
-&emsp;[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 
+&emsp;[![Upwork badge](https://img.shields.io/badge/HIRE_ME_ON-UPWORK-14a800.svg)](https://www.upwork.com/o/profiles/users/~01839791ddb1ede3fa/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Fiverr badge](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-1dbf73.svg)](https://www.fiverr.com/kowshikanagaraj/) 
