@@ -1,16 +1,18 @@
 ## Competitor Analysis / Market Research / Comparison Report
 
 **Project description:** 
-I have experience in generating Market Research, Competitor Analysis or Competitor research reports for any Industry & topic or company.
+I have experience in generating Market Research, Competitor Analysis or Competitor research reports for any Industry & topic or company. You will get a thorough report, detailing important key points, and analysis for each relevant factor.
 
 
-I have can encompass:
+According to client's specific requirements, the reports can encompass:
 
   - In-depth Analysis
 
   - SWOT Analysis
 
   - Competitor Analysis
+
+  - App/Software Comparison Report
 
   - Marketing Strategies
 
@@ -32,7 +34,7 @@ If there is any topic you want to be researched, please contact me!
   - <a href="https://drive.google.com/file/d/1qrnPmVi8NkKGxNMVWjlKX4g48rYLxBlj/view?usp=sharing" target="_blank">Sample Competitor Report</a>
 
 
-	<br/>  
+  <br/>  
   
 
 ### Testimonials
