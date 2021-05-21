@@ -26,6 +26,7 @@ I am open to a long-term as well as a short-term project. I have been working on
 </a>
 </div>
 <br/>
+
 ---
 
 [Web scraping and Automation](/scraping)
@@ -36,6 +37,7 @@ I am open to a long-term as well as a short-term project. I have been working on
 </a>
 </div>
 <br/>
+
 ---
 
 [Competitor Analysis / Comparison Report ](/analysis)
@@ -46,6 +48,7 @@ I am open to a long-term as well as a short-term project. I have been working on
 </a>
 </div>
 <br/>
+
 ---
 
 [Python Scripting and Debugging](/python)
@@ -56,6 +59,7 @@ I am open to a long-term as well as a short-term project. I have been working on
 </a>
 </div>
 <br/>
+
 ---
 
 [Excel Macros and Data Visualization](/excel)
@@ -66,6 +70,7 @@ I am open to a long-term as well as a short-term project. I have been working on
 </a>
 </div>
 <br/>
+
 ---
 
 ---
