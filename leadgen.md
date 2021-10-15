@@ -17,7 +17,7 @@ I have extensive experience in the following areas:
   - PDF Conversion and more.
 
 
-I have delivered leads for customers in multiple industries such as Medicine, Pharma, Cosmetics, Automobile, Manufacturing, Non-Profits, etc...
+I have delivered leads for customers in multiple industries such as Legal, Pharma, Cosmetics, Automobile, Logistics, Transport, Manufacturing, Education, Non-Profits, etc.
 
 I have also worked on projects related to hotel management with the knowledge of the hospitality field and familiarity with online sites like Tripadvisor, Booking.com, Agoda, Expedia.
 
@@ -27,6 +27,8 @@ Apart from Web Research, my other skills include Data Mining, Data Extraction, M
 ### Work Samples
 
   - <a href="https://drive.google.com/file/d/1rZBSVrwYL9uBYgzkaSgEmn0oajwsc89g/view?usp=sharing" target="_blank">Leads per Industry</a>
+
+  - <a href="https://docs.google.com/spreadsheets/d/1CDkkQMiViLHNfePk_mfW5uLBuI8zLQ-Z/view?usp=sharing" target="_blank">FTSE CEO Information</a>
 
   - <a href="https://drive.google.com/file/d/1KvcdW-UHYreJ468egZZmqIXoyz_zhkk1/view?usp=sharing" target="_blank">LinkedIn Schools Contact List</a>  
 
